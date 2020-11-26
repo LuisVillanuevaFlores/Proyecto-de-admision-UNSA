@@ -1,0 +1,21 @@
+Insertar
+{
+    "Pabellon_id":1,
+    "Aula_Nro":2,
+    "Código":2,
+    "Piso":1,
+    "Aforo":20,
+    "Filas":5,
+    "Columnas":5,
+    "Situación":"Carpetas muy degradadas"
+}
+Actualizar
+{
+    
+    "Situación":"Carpetas poco degradadas"
+}
+{
+	"Pabellon":"Ciencias de la computación",
+	"Guardero":"Roberto Gomez",
+	"Teléfono":959560108
+}

@@ -1,0 +1,37 @@
+/BACKEND/node_modules
+/BACKEND/public/hot
+/BACKEND/public/storage
+/BACKEND/storage/*.key
+/BACKEND/vendor
+/BACKEND/.env
+/BACKEND/.env.backup
+/BACKEND/.phpunit.result.cache
+/BACKEND/Homestead.json
+/BACKEND/Homestead.yaml
+/BACKEND/npm-debug.log
+/BACKEND/yarn-error.log
+
+
+/FRONTEND/.DS_Store
+/FRONTEND/node_modules
+/FRONTEND/dist
+
+
+# local env files
+/FRONTEND/.env.local
+/FRONTEND/.env.*.local
+
+# Log files
+/FRONTEND/npm-debug.log*
+/FRONTEND/yarn-debug.log*
+/FRONTEND/yarn-error.log*
+/FRONTEND/pnpm-debug.log*
+
+# Editor directories and files
+/FRONTEND/.idea
+/FRONTEND/.vscode
+/FRONTEND/*.suo
+/FRONTEND/*.ntvs*
+/FRONTEND/*.njsproj
+/FRONTEND/*.sln
+/FRONTEND/*.sw?
